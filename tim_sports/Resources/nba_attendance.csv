@@ -1,0 +1,625 @@
+﻿year,team,attendance,attendance/G
+2018,Milwaukee Bucks,417120,17380
+2018,Golden State Warriors,470304,19596
+2018,Boston Celtics,391104,18624
+2018,Toronto Raptors,455788,19817
+2018,Denver Nuggets,418556,18198
+2018,Utah Jazz,366120,18306
+2018,Indiana Pacers,351846,16755
+2018,Oklahoma City Thunder,382263,18203
+2018,San Antonio Spurs,438073,18253
+2018,Portland Trail Blazers,503916,19381
+2018,Houston Rockets,415265,18055
+2018,New Orleans Pelicans,326471,15546
+2018,Philadelphia 76ers,468742,20380
+2018,Los Angeles Clippers,389202,16922
+2018,Los Angeles Lakers,455928,18997
+2018,Dallas Mavericks,437192,19872
+2018,Minnesota Timberwolves,330665,15030
+2018,Charlotte Hornets,365785,15904
+2018,Sacramento Kings,403951,16831
+2018,Miami Heat,451205,19618
+2018,Memphis Grizzlies,326775,15561
+2018,Brooklyn Nets,329055,14307
+2018,Detroit Pistons,350469,15930
+2018,Washington Wizards,379649,17170
+2018,Orlando Magic,396994,16990
+2018,Phoenix Suns,355199,14800
+2018,New York Knicks,345641,19202
+2018,Atlanta Hawks,284731,14986
+2018,Chicago Bulls,420351,20017
+2018,Cleveland Cavaliers,427504,19432
+2017,Houston Rockets,732722,17871
+2017,Toronto Raptors,813431,19840
+2017,Golden State Warriors,803436,19596
+2017,Utah Jazz,734806,17922
+2017,Philadelphia 76ers,833503,20361
+2017,Oklahoma City Thunder,746322,18203
+2017,Boston Celtics,763584,18624
+2017,San Antonio Spurs,754562,18404
+2017,Portland Trail Blazers,795750,19409
+2017,Minnesota Timberwolves,699308,17056
+2017,Denver Nuggets,702796,17141
+2017,New Orleans Pelicans,673920,16437
+2017,Indiana Pacers,658119,16052
+2017,Cleveland Cavaliers,843042,20562
+2017,Washington Wizards,739302,18032
+2017,Los Angeles Clippers,697812,17020
+2017,Miami Heat,804850,19630
+2017,Charlotte Hornets,671404,16376
+2017,Detroit Pistons,713945,17413
+2017,Milwaukee Bucks,685303,16856
+2017,Los Angeles Lakers,776327,18935
+2017,Dallas Mavericks,811453,19792
+2017,New York Knicks,792608,19332
+2017,Brooklyn Nets,640010,15376
+2017,Orlando Magic,734531,17915
+2017,Atlanta Hawks,590769,14409
+2017,Memphis Grizzlies,653863,15948
+2017,Sacramento Kings,714680,17431
+2017,Chicago Bulls,851824,20776
+2017,Phoenix Suns,690576,16843
+2016,Golden State Warriors,803436,19596
+2016,San Antonio Spurs,755347,18423
+2016,Houston Rockets,695903,16973
+2016,Los Angeles Clippers,782609,19088
+2016,Utah Jazz,806142,19662
+2016,Toronto Raptors,813050,19830
+2016,Cleveland Cavaliers,843042,20562
+2016,Boston Celtics,760690,18553
+2016,Washington Wizards,697107,17003
+2016,Oklahoma City Thunder,746323,18203
+2016,Memphis Grizzlies,677314,16520
+2016,Miami Heat,805400,19644
+2016,Denver Nuggets,605585,14672
+2016,Chicago Bulls,888882,21680
+2016,Charlotte Hornets,710643,17333
+2016,Portland Trail Blazers,792029,19318
+2016,Milwaukee Bucks,648952,15828
+2016,Indiana Pacers,684578,16697
+2016,Minnesota Timberwolves,607203,14810
+2016,Atlanta Hawks,654306,15959
+2016,Detroit Pistons,655141,15979
+2016,New Orleans Pelicans,663099,16173
+2016,Dallas Mavericks,811366,19789
+2016,Sacramento Kings,721928,17608
+2016,New York Knicks,810741,19774
+2016,Phoenix Suns,708639,17134
+2016,Philadelphia 76ers,710557,17331
+2016,Los Angeles Lakers,776917,18949
+2016,Orlando Magic,727875,17753
+2016,Brooklyn Nets,632608,15429
+2015,Golden State Warriors,803436,19596
+2015,San Antonio Spurs,756445,18450
+2015,Oklahoma City Thunder,746323,18203
+2015,Cleveland Cavaliers,843042,20562
+2015,Los Angeles Clippers,786910,19193
+2015,Toronto Raptors,812863,19826
+2015,Atlanta Hawks,690150,16833
+2015,Boston Celtics,749076,18270
+2015,Charlotte Hornets,716894,17485
+2015,Utah Jazz,791489,19305
+2015,Indiana Pacers,690733,16847
+2015,Miami Heat,809350,19740
+2015,Portland Trail Blazers,794085,19368
+2015,Detroit Pistons,677138,16516
+2015,Houston Rockets,737244,17982
+2015,Dallas Mavericks,825901,20144
+2015,Washington Wizards,725426,17693
+2015,Chicago Bulls,894659,21821
+2015,Orlando Magic,719275,17515
+2015,Memphis Grizzlies,701894,17119
+2015,Sacramento Kings,707526,17222
+2015,New York Knicks,812292,19812
+2015,Denver Nuggets,577898,14095
+2015,Minnesota Timberwolves,581178,14175
+2015,New Orleans Pelicans,688549,16794
+2015,Milwaukee Bucks,621808,15166
+2015,Phoenix Suns,701405,17107
+2015,Brooklyn Nets,620142,15125
+2015,Los Angeles Lakers,778877,18997
+2015,Philadelphia 76ers,614650,14991
+2014,Golden State Warriors,803436,19596
+2014,Los Angeles Clippers,785892,19168
+2014,San Antonio Spurs,762855,18606
+2014,Atlanta Hawks,713909,17412
+2014,Portland Trail Blazers,798368,19472
+2014,Cleveland Cavaliers,843042,20562
+2014,Houston Rockets,747412,18230
+2014,Memphis Grizzlies,710502,17329
+2014,Dallas Mavericks,827702,20188
+2014,Chicago Bulls,886612,21625
+2014,Oklahoma City Thunder,746323,18203
+2014,Toronto Raptors,809824,19752
+2014,New Orleans Pelicans,683757,16677
+2014,Utah Jazz,772059,18831
+2014,Washington Wizards,747796,18239
+2014,Milwaukee Bucks,593910,14813
+2014,Indiana Pacers,691434,16864
+2014,Phoenix Suns,693862,16923
+2014,Boston Celtics,721350,17594
+2014,Detroit Pistons,625917,15266
+2014,Miami Heat,808223,19713
+2014,Denver Nuggets,602707,14700
+2014,Sacramento Kings,680049,16587
+2014,Brooklyn Nets,698529,17037
+2014,Charlotte Hornets,704886,17192
+2014,Orlando Magic,688194,16785
+2014,Los Angeles Lakers,768244,18738
+2014,Minnesota Timberwolves,595652,14416
+2014,Philadelphia 76ers,571572,13941
+2014,New York Knicks,812292,19812
+2013,San Antonio Spurs,755031,18415
+2013,Los Angeles Clippers,787692,19212
+2013,Oklahoma City Thunder,746323,18203
+2013,Golden State Warriors,803436,19596
+2013,Houston Rockets,743082,18124
+2013,Portland Trail Blazers,809612,19747
+2013,Miami Heat,811036,19781
+2013,Indiana Pacers,717542,17501
+2013,Minnesota Timberwolves,597157,14565
+2013,Phoenix Suns,650739,15872
+2013,Dallas Mavericks,817982,19951
+2013,Toronto Raptors,748339,18252
+2013,Memphis Grizzlies,685458,16718
+2013,Chicago Bulls,890370,21716
+2013,Washington Wizards,698068,17026
+2013,Atlanta Hawks,587927,14231
+2013,Charlotte Bobcats,636268,15519
+2013,Denver Nuggets,692898,16900
+2013,New York Knicks,812292,19812
+2013,Brooklyn Nets,707331,17252
+2013,New Orleans Pelicans,672029,16391
+2013,Sacramento Kings,667949,16291
+2013,Cleveland Cavaliers,710522,17330
+2013,Detroit Pistons,616005,15025
+2013,Boston Celtics,742400,18107
+2013,Los Angeles Lakers,771974,18829
+2013,Orlando Magic,666046,16245
+2013,Utah Jazz,745203,18176
+2013,Milwaukee Bucks,552067,13465
+2013,Philadelphia 76ers,568632,13869
+2012,Oklahoma City Thunder,746323,18203
+2012,Miami Heat,819290,19983
+2012,San Antonio Spurs,755700,18432
+2012,Los Angeles Clippers,788293,19227
+2012,Denver Nuggets,730616,17820
+2012,Memphis Grizzlies,681613,16625
+2012,New York Knicks,780353,19033
+2012,Houston Rockets,683564,16672
+2012,Indiana Pacers,626069,15270
+2012,Los Angeles Lakers,778877,18997
+2012,Golden State Warriors,794320,19374
+2012,Brooklyn Nets,704702,17188
+2012,Utah Jazz,763915,18632
+2012,Chicago Bulls,896944,21877
+2012,Atlanta Hawks,620146,15126
+2012,Dallas Mavericks,821490,20036
+2012,Boston Celtics,744960,18624
+2012,Milwaukee Bucks,616469,15036
+2012,Minnesota Timberwolves,669956,16340
+2012,Toronto Raptors,743936,18145
+2012,Portland Trail Blazers,813012,19830
+2012,Washington Wizards,670070,16343
+2012,New Orleans Hornets,565930,13803
+2012,Philadelphia 76ers,685412,16717
+2012,Sacramento Kings,563743,13750
+2012,Detroit Pistons,606094,14685
+2012,Cleveland Cavaliers,663882,16192
+2012,Phoenix Suns,632913,15437
+2012,Orlando Magic,722716,17627
+2012,Charlotte Bobcats,628293,15324
+2011,Chicago Bulls,731326,22161
+2011,San Antonio Spurs,607095,18397
+2011,Oklahoma City Thunder,600699,18203
+2011,Miami Heat,657855,19935
+2011,Philadelphia 76ers,577597,17503
+2011,Denver Nuggets,561966,17029
+2011,Los Angeles Clippers,634237,19219
+2011,Atlanta Hawks,501593,15200
+2011,Indiana Pacers,467561,14169
+2011,Memphis Grizzlies,518446,15710
+2011,New York Knicks,652179,19763
+2011,Boston Celtics,614592,18624
+2011,Los Angeles Lakers,626901,18997
+2011,Dallas Mavericks,671050,20335
+2011,Utah Jazz,637124,19307
+2011,Houston Rockets,506994,15363
+2011,Orlando Magic,623587,18897
+2011,Phoenix Suns,514718,15598
+2011,Portland Trail Blazers,676384,20496
+2011,Milwaukee Bucks,485717,14719
+2011,Minnesota Timberwolves,577197,17491
+2011,Golden State Warriors,622311,18858
+2011,New Orleans Hornets,498618,15110
+2011,Toronto Raptors,555584,16836
+2011,Sacramento Kings,478764,14508
+2011,Washington Wizards,552038,16728
+2011,Detroit Pistons,475638,14413
+2011,New Jersey Nets,460719,13961
+2011,Cleveland Cavaliers,525577,15927
+2011,Charlotte Bobcats,486984,14757
+2010,Miami Heat,810930,19779
+2010,Chicago Bulls,893462,21792
+2010,Los Angeles Lakers,778877,18997
+2010,San Antonio Spurs,750879,18314
+2010,Orlando Magic,777852,18972
+2010,Boston Celtics,763584,18624
+2010,Denver Nuggets,696568,16989
+2010,Dallas Mavericks,824162,20102
+2010,Oklahoma City Thunder,744068,18148
+2010,Memphis Grizzlies,600687,14651
+2010,Houston Rockets,663839,16191
+2010,Portland Trail Blazers,840924,20510
+2010,New Orleans Hornets,603088,14709
+2010,Philadelphia 76ers,604823,14752
+2010,New York Knicks,808879,19729
+2010,Phoenix Suns,720249,17567
+2010,Milwaukee Bucks,631912,15412
+2010,Atlanta Hawks,641596,15649
+2010,Indiana Pacers,555077,13538
+2010,Utah Jazz,799982,19512
+2010,Golden State Warriors,766398,18693
+2010,Los Angeles Clippers,727462,17743
+2010,Detroit Pistons,683080,16660
+2010,Charlotte Bobcats,649694,15846
+2010,Sacramento Kings,569496,13890
+2010,Minnesota Timberwolves,624960,15243
+2010,New Jersey Nets,581378,13949
+2010,Toronto Raptors,680255,16592
+2010,Washington Wizards,688466,16792
+2010,Cleveland Cavaliers,824595,20112
+2009,Orlando Magic,715901,17461
+2009,Cleveland Cavaliers,843042,20562
+2009,Utah Jazz,794512,19378
+2009,San Antonio Spurs,741676,18090
+2009,Los Angeles Lakers,778877,18997
+2009,Phoenix Suns,723582,17648
+2009,Atlanta Hawks,678375,16546
+2009,Denver Nuggets,737301,17983
+2009,Oklahoma City Thunder,738149,18004
+2009,Boston Celtics,763584,18624
+2009,Portland Trail Blazers,840371,20497
+2009,Dallas Mavericks,819770,19994
+2009,Miami Heat,726935,17730
+2009,Milwaukee Bucks,619453,15109
+2009,Charlotte Bobcats,648520,15818
+2009,Houston Rockets,677658,16528
+2009,Memphis Grizzlies,552914,13486
+2009,Chicago Bulls,849760,20726
+2009,Toronto Raptors,733784,17897
+2009,New Orleans Hornets,617366,15058
+2009,Indiana Pacers,582295,14202
+2009,Golden State Warriors,739120,18027
+2009,Philadelphia 76ers,583219,14225
+2009,New York Knicks,799550,19501
+2009,Sacramento Kings,543416,13254
+2009,Washington Wizards,664398,16205
+2009,Detroit Pistons,768826,18752
+2009,Los Angeles Clippers,670063,16343
+2009,New Jersey Nets,537230,13103
+2009,Minnesota Timberwolves,619170,15102
+2008,Cleveland Cavaliers,841000,20512
+2008,Boston Celtics,763584,18624
+2008,Los Angeles Lakers,778877,18997
+2008,Orlando Magic,698768,17043
+2008,Portland Trail Blazers,841499,20524
+2008,Houston Rockets,717669,17504
+2008,San Antonio Spurs,749048,18269
+2008,Denver Nuggets,706165,17224
+2008,Utah Jazz,816042,19903
+2008,Atlanta Hawks,686688,16748
+2008,Dallas Mavericks,821723,20042
+2008,Phoenix Suns,755302,18422
+2008,New Orleans Hornets,695727,16969
+2008,Miami Heat,748778,18263
+2008,Philadelphia 76ers,647898,15802
+2008,Chicago Bulls,868667,21187
+2008,Detroit Pistons,896971,21877
+2008,Indiana Pacers,581472,14182
+2008,Milwaukee Bucks,630976,15390
+2008,Charlotte Bobcats,597548,14574
+2008,New Jersey Nets,621062,15148
+2008,New York Knicks,790801,19288
+2008,Toronto Raptors,769707,18773
+2008,Golden State Warriors,776660,18943
+2008,Minnesota Timberwolves,595013,14513
+2008,Memphis Grizzlies,519895,12680
+2008,Oklahoma City Thunder,766868,18704
+2008,Washington Wizards,681119,16613
+2008,Los Angeles Clippers,663587,16185
+2008,Sacramento Kings,520169,12687
+2007,Boston Celtics,763584,18624
+2007,Los Angeles Lakers,778877,18997
+2007,Utah Jazz,816211,19908
+2007,Detroit Pistons,905116,22076
+2007,New Orleans Hornets,581432,14181
+2007,Phoenix Suns,755302,18422
+2007,San Antonio Spurs,761149,18565
+2007,Houston Rockets,718524,17525
+2007,Orlando Magic,709346,17301
+2007,Dallas Mavericks,831738,20286
+2007,Denver Nuggets,711962,17365
+2007,Toronto Raptors,796835,19435
+2007,Golden State Warriors,804864,19631
+2007,Philadelphia 76ers,609675,14870
+2007,Portland Trail Blazers,801566,19550
+2007,Cleveland Cavaliers,839074,20465
+2007,Washington Wizards,736461,17962
+2007,Sacramento Kings,580181,14151
+2007,Indiana Pacers,501092,12222
+2007,Atlanta Hawks,667518,16281
+2007,Chicago Bulls,901502,21988
+2007,Charlotte Bobcats,603403,14717
+2007,New Jersey Nets,641921,15657
+2007,Memphis Grizzlies,523578,12770
+2007,Minnesota Timberwolves,593537,14477
+2007,New York Knicks,783739,19116
+2007,Los Angeles Clippers,692408,16888
+2007,Milwaukee Bucks,639421,15596
+2007,Seattle SuperSonics,547556,13355
+2007,Miami Heat,798004,19464
+2006,San Antonio Spurs,764823,18654
+2006,Dallas Mavericks,834411,20351
+2006,Phoenix Suns,755302,18422
+2006,Houston Rockets,678362,16545
+2006,Chicago Bulls,912364,22253
+2006,Detroit Pistons,905116,22076
+2006,Cleveland Cavaliers,837883,20436
+2006,Utah Jazz,802214,19566
+2006,Denver Nuggets,706437,17230
+2006,Toronto Raptors,748603,18259
+2006,Orlando Magic,700887,17095
+2006,Los Angeles Lakers,778415,18986
+2006,Golden State Warriors,742267,18104
+2006,Los Angeles Clippers,755261,18421
+2006,Washington Wizards,753283,18373
+2006,New Jersey Nets,693955,16926
+2006,New Orleans/Oklahoma City Hornets,731165,17954
+2006,Miami Heat,808541,19721
+2006,Sacramento Kings,709997,17317
+2006,Seattle SuperSonics,654163,15955
+2006,Indiana Pacers,629750,15360
+2006,New York Knicks,770617,18796
+2006,Minnesota Timberwolves,655947,15999
+2006,Philadelphia 76ers,608603,14844
+2006,Boston Celtics,690576,16843
+2006,Portland Trail Blazers,670778,16360
+2006,Charlotte Bobcats,637520,15549
+2006,Milwaukee Bucks,663629,16186
+2006,Memphis Grizzlies,600836,14655
+2006,Atlanta Hawks,639375,15595
+2005,San Antonio Spurs,770677,18797
+2005,Detroit Pistons,905116,22076
+2005,Dallas Mavericks,824693,20114
+2005,Phoenix Suns,730179,17809
+2005,Memphis Grizzlies,647533,15793
+2005,Miami Heat,818149,19955
+2005,Los Angeles Lakers,774189,18883
+2005,Cleveland Cavaliers,792391,19327
+2005,Los Angeles Clippers,712409,17376
+2005,Indiana Pacers,663368,16180
+2005,Sacramento Kings,709997,17317
+2005,Washington Wizards,705062,17197
+2005,New Jersey Nets,691543,16867
+2005,Chicago Bulls,868720,21188
+2005,Denver Nuggets,702555,17135
+2005,Milwaukee Bucks,681337,16618
+2005,Golden State Warriors,749185,18273
+2005,Orlando Magic,638005,15561
+2005,Houston Rockets,636110,15515
+2005,Boston Celtics,692873,16899
+2005,Minnesota Timberwolves,662167,16150
+2005,Philadelphia 76ers,677278,16519
+2005,Utah Jazz,751621,18332
+2005,New Orleans/Oklahoma City Hornets,744920,18717
+2005,Seattle SuperSonics,664157,16199
+2005,Toronto Raptors,699332,17057
+2005,Charlotte Bobcats,671011,16366
+2005,Atlanta Hawks,617817,15069
+2005,New York Knicks,776176,18931
+2005,Portland Trail Blazers,617019,15049
+2004,San Antonio Spurs,750970,18316
+2004,Phoenix Suns,726066,17709
+2004,Dallas Mavericks,822533,20062
+2004,Miami Heat,815143,19882
+2004,Houston Rockets,663444,16182
+2004,Detroit Pistons,905116,22076
+2004,Memphis Grizzlies,691362,16862
+2004,Seattle SuperSonics,675490,16475
+2004,Sacramento Kings,709997,17317
+2004,Denver Nuggets,723949,17657
+2004,Minnesota Timberwolves,704438,17181
+2004,Chicago Bulls,828384,20204
+2004,Indiana Pacers,696764,16994
+2004,Boston Celtics,656081,16002
+2004,Cleveland Cavaliers,784249,19128
+2004,Los Angeles Clippers,696181,16980
+2004,Washington Wizards,705069,17197
+2004,Philadelphia 76ers,732686,17870
+2004,Golden State Warriors,670368,16350
+2004,Toronto Raptors,703388,17156
+2004,New Jersey Nets,618681,15090
+2004,Los Angeles Lakers,770494,18793
+2004,Orlando Magic,597942,14584
+2004,New York Knicks,800144,19516
+2004,Milwaukee Bucks,637009,15537
+2004,Portland Trail Blazers,680374,16594
+2004,Utah Jazz,769014,18756
+2004,Charlotte Bobcats,591701,14432
+2004,New Orleans Hornets,583070,14221
+2004,Atlanta Hawks,586390,14302
+2003,San Antonio Spurs,739706,18042
+2003,Minnesota Timberwolves,723071,17636
+2003,Sacramento Kings,709997,17317
+2003,Detroit Pistons,872902,21290
+2003,Indiana Pacers,678326,16545
+2003,Dallas Mavericks,825594,20136
+2003,Los Angeles Lakers,777757,18970
+2003,Memphis Grizzlies,622723,15188
+2003,Houston Rockets,640794,15629
+2003,New Jersey Nets,613051,14952
+2003,Denver Nuggets,721476,17597
+2003,Milwaukee Bucks,690180,16834
+2003,Seattle SuperSonics,625474,15154
+2003,Golden State Warriors,665648,16235
+2003,Miami Heat,624809,15239
+2003,Utah Jazz,785330,19154
+2003,Portland Trail Blazers,684038,16684
+2003,New Orleans Hornets,587613,14332
+2003,New York Knicks,785739,19164
+2003,Boston Celtics,664248,16201
+2003,Phoenix Suns,670385,16351
+2003,Philadelphia 76ers,788128,19223
+2003,Cleveland Cavaliers,749790,18288
+2003,Toronto Raptors,750608,18308
+2003,Los Angeles Clippers,665396,16143
+2003,Atlanta Hawks,565728,13798
+2003,Washington Wizards,645363,15741
+2003,Chicago Bulls,809177,19736
+2003,Orlando Magic,589144,14369
+2002,Dallas Mavericks,816429,19913
+2002,Sacramento Kings,709997,17317
+2002,San Antonio Spurs,735970,17950
+2002,New Jersey Nets,622574,15185
+2002,Detroit Pistons,839278,20470
+2002,Portland Trail Blazers,796258,19421
+2002,Indiana Pacers,670461,16353
+2002,Utah Jazz,786034,19172
+2002,Los Angeles Lakers,777888,18973
+2002,Minnesota Timberwolves,643684,15700
+2002,Houston Rockets,565166,13785
+2002,Philadelphia 76ers,807097,19685
+2002,Phoenix Suns,666559,16258
+2002,New Orleans Hornets,641683,15651
+2002,Seattle SuperSonics,637194,15541
+2002,Milwaukee Bucks,665966,16243
+2002,Orlando Magic,605901,14778
+2002,Golden State Warriors,634935,15486
+2002,Boston Celtics,709049,17294
+2002,Washington Wizards,827093,20173
+2002,New York Knicks,779479,19012
+2002,Memphis Grizzlies,611322,14910
+2002,Los Angeles Clippers,706471,17231
+2002,Atlanta Hawks,528655,12894
+2002,Miami Heat,628242,15323
+2002,Chicago Bulls,804309,19617
+2002,Toronto Raptors,777507,18964
+2002,Denver Nuggets,607813,14825
+2002,Cleveland Cavaliers,471374,11497
+2001,Sacramento Kings,709997,17317
+2001,Los Angeles Lakers,778777,18995
+2001,San Antonio Spurs,906390,22107
+2001,Dallas Mavericks,802783,19580
+2001,New Jersey Nets,564194,13761
+2001,Minnesota Timberwolves,731673,17846
+2001,Seattle SuperSonics,633516,15452
+2001,Portland Trail Blazers,797821,19459
+2001,Boston Celtics,659751,16091
+2001,Detroit Pistons,760807,18556
+2001,Philadelphia 76ers,842976,20560
+2001,Orlando Magic,621121,15149
+2001,Utah Jazz,766108,18686
+2001,Charlotte Hornets,462738,11286
+2001,Indiana Pacers,686537,16745
+2001,Los Angeles Clippers,740185,18053
+2001,Phoenix Suns,668939,16316
+2001,Milwaukee Bucks,745305,18178
+2001,Toronto Raptors,810160,19760
+2001,Washington Wizards,847634,20674
+2001,Miami Heat,655549,15989
+2001,Cleveland Cavaliers,596115,14539
+2001,New York Knicks,810283,19763
+2001,Houston Rockets,481227,11737
+2001,Atlanta Hawks,506110,12344
+2001,Golden State Warriors,593182,14468
+2001,Denver Nuggets,633846,15460
+2001,Memphis Grizzlies,591030,14415
+2001,Chicago Bulls,776311,18934
+2000,San Antonio Spurs,913176,22273
+2000,Sacramento Kings,709997,17317
+2000,Utah Jazz,792196,19322
+2000,Dallas Mavericks,680238,16591
+2000,Portland Trail Blazers,831376,20277
+2000,Los Angeles Lakers,776336,18935
+2000,Philadelphia 76ers,805692,19651
+2000,Milwaukee Bucks,683125,16662
+2000,Houston Rockets,518555,12648
+2000,Phoenix Suns,737586,17990
+2000,New York Knicks,810283,19763
+2000,Minnesota Timberwolves,717371,17497
+2000,Miami Heat,678186,16541
+2000,Toronto Raptors,793256,19348
+2000,Charlotte Hornets,615424,15010
+2000,Seattle SuperSonics,640847,15630
+2000,Orlando Magic,605031,14757
+2000,Indiana Pacers,731800,17849
+2000,Denver Nuggets,619300,15105
+2000,Detroit Pistons,607323,14813
+2000,Los Angeles Clippers,601587,14673
+2000,Boston Celtics,629201,15346
+2000,Cleveland Cavaliers,650775,15873
+2000,Vancouver Grizzlies,563218,13737
+2000,New Jersey Nets,556573,13575
+2000,Atlanta Hawks,560330,13667
+2000,Washington Wizards,638653,15577
+2000,Golden State Warriors,591981,14439
+2000,Chicago Bulls,888654,21674
+1999,Los Angeles Lakers,771420,9408
+1999,Portland Trail Blazers,835078,10184
+1999,San Antonio Spurs,884450,10786
+1999,Phoenix Suns,773115,9428
+1999,Utah Jazz,801268,9772
+1999,Indiana Pacers,752145,9173
+1999,Sacramento Kings,720033,8781
+1999,Miami Heat,706725,8619
+1999,Minnesota Timberwolves,690012,8415
+1999,Charlotte Hornets,732827,8937
+1999,New York Knicks,810103,9879
+1999,Seattle SuperSonics,615730,7509
+1999,Detroit Pistons,678470,8274
+1999,Philadelphia 76ers,756956,9231
+1999,Orlando Magic,576409,7029
+1999,Milwaukee Bucks,628605,7666
+1999,Dallas Mavericks,606177,7392
+1999,Toronto Raptors,756496,9226
+1999,Houston Rockets,624594,7617
+1999,Boston Celtics,683608,8337
+1999,New Jersey Nets,643631,7849
+1999,Denver Nuggets,637698,7777
+1999,Washington Wizards,616593,7519
+1999,Cleveland Cavaliers,603702,7362
+1999,Vancouver Grizzlies,569864,6950
+1999,Atlanta Hawks,600954,7329
+1999,Golden State Warriors,509171,6209
+1999,Chicago Bulls,907064,11062
+1999,Los Angeles Clippers,559714,6826
+1998,San Antonio Spurs,527357,10547
+1998,Portland Trail Blazers,486556,9731
+1998,Utah Jazz,493120,9862
+1998,Miami Heat,378813,7576
+1998,Detroit Pistons,444585,8892
+1998,Indiana Pacers,404536,8091
+1998,Orlando Magic,411091,8222
+1998,Atlanta Hawks,331831,6637
+1998,Los Angeles Lakers,430007,8600
+1998,Philadelphia 76ers,436444,8729
+1998,Phoenix Suns,472283,9446
+1998,Milwaukee Bucks,381948,7639
+1998,New York Knicks,494075,9882
+1998,Houston Rockets,407125,8143
+1998,Charlotte Hornets,480807,9616
+1998,Minnesota Timberwolves,427974,8559
+1998,Sacramento Kings,418751,8375
+1998,Cleveland Cavaliers,352992,7060
+1998,Toronto Raptors,439190,8784
+1998,Seattle SuperSonics,426800,8536
+1998,Boston Celtics,440602,8812
+1998,Washington Wizards,402481,8050
+1998,Dallas Mavericks,362837,7257
+1998,Golden State Warriors,335837,6717
+1998,New Jersey Nets,400387,8008
+1998,Denver Nuggets,296965,5939
+1998,Chicago Bulls,560012,11200
+1998,Los Angeles Clippers,256568,5131
+1998,Vancouver Grizzlies,417966,8359
