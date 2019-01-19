@@ -21,7 +21,7 @@ Independent variables, primary of which is time, studied across all datasets are
 
     
 ### Sports Organizations
-20 years of data (1998 - 2018) regarding the win/loss records, playoff/championship data, and attendance figures for each team in Major League Baseball, the National Football League, and the National Basketball Accosiation. 
+20 years of data (1998 - 2018) regarding the win/loss records, playoff/championship data, and attendance figures for each team in Major League Baseball, the National Football League, and the National Basketball Association. 
   - Sources: 
     - MLB Data: https://www.baseball-reference.com/
     - NFL Data: https://www.pro-football-reference.com/
