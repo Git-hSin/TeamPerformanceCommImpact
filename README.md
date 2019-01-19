@@ -18,11 +18,15 @@ Independent variables, primary of which is time, studied across all datasets are
   - Income, real estate value, ethnicity, 
   
 - Sport Organizations
-  - Teams
-    - Performance
+
     
 ### Sports Organizations
-
+20 years of data (1998 - 2018) regarding the win/loss records, playoff/championship data, and attendance figures for each team in Major League Baseball, the National Football League, and the National Basketball Accosiation. 
+  - Sources: 
+    - MLB Data: https://www.baseball-reference.com/
+    - NFL Data: https://www.pro-football-reference.com/
+    - NBA Data: https://www.basketball-reference.com/
+ - Teams
 ### Zillow
 
 ### US Census
