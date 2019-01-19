@@ -1,0 +1,10 @@
+##Links to Team Locations
+
+#MLB
+https://state.1keydata.com/mlb-teams-by-state.php
+
+#NFL
+https://state.1keydata.com/nfl-teams-by-state.php
+
+#NBA
+https://state.1keydata.com/nba-teams-by-state.php
