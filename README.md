@@ -30,3 +30,8 @@ Independent variables, primary of which is time, studied across all datasets are
 ### Zillow
 
 ### US Census
+- US Census information provides the largest demographic population size to sample datasets for analysis against other variables. 
+  - Sources:
+    - API: https://www.census.gov/data/developers/guidance/api-user-guide.Overview.html
+   
+  
