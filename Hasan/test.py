@@ -9,8 +9,8 @@ key = zkey
 
 api = zillow.ValuationApi()
 
-address = "3400 Pacific Ave., Marina Del Rey, CA"
-postal_code = "90292"
+address = "1801 Meridian Avenue, South Pasadena, CA"
+postal_code = "91030"
 
 data = api.GetSearchResults(key, address, postal_code)
 
