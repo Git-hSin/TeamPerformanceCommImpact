@@ -27,6 +27,7 @@ Independent variables, primary of which is time, studied across all datasets are
     - NFL Data: https://www.pro-football-reference.com/
     - NBA Data: https://www.basketball-reference.com/
  - The above sources provide tables that can be manipulated and exported as CSV files. Once the data was gathered and cleaned, Tim organized them into analysis-ready DataFrames via the Python Pandas library.
+ - The visualizations were done using matplotlib and seaborn
 ### Zillow
 
 ### US Census
