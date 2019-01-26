@@ -1,54 +1,50 @@
-﻿State Name,MLB Team(s),stadium_zipcode,start_point,end_point,,,,,,,,,
-Arizona,Arizona Diamondbacks,85034,1998,2018,,,,,,,,,
-California,Los Angeles Angels,92806,1998,2018,,,,,,,,,
-California,Los Angeles Dodgers,90012,1998,2018,,,,,,,,,
-California,Oakland A's,94621,1998,2018,,,,,,,,,
-California,San Diego Padres,92108,1998,2004,,,,,,,,,
-California,San Diego Padres,92101,2005,2018,,,,,,,,,
-California,San Francisco Giants,94124,1998,1999,,,,,,,,,
-California,San Francisco Giants,94107,2000,2018,,,,,,,,,
-Colorado,Colorado Rockies,80204,1998,1994,,,,,,,,,
-Colorado,Colorado Rockies,80205,1998,2018,,,,,,,,,
-Florida,Miami Marlins,33056,1998,2011,,,,,,,,,
-Florida,Miami Marlins,33125,2012,2018,,,,,,,,,
-Florida,Tampa Bay Rays,33705,1998,2018,,,,,,,,,
-Georgia,Atlanta Braves,30312,1998,1996,,,,,,,,,
-Georgia,Atlanta Braves,30315,1998,2016,,,,,,,,,
-Georgia,Atlanta Braves,30339,2017,2018,,,,,,,,,
-Illinois,Chicago Cubs,60613,1998,2018,,,,,,,,,
-Illinois,Chicago White Sox,60616,1998,1990,,,,,,,,,
-Illinois,Chicago White Sox,60616,1991,2018,,,,,,,,,
-Maryland,Baltimore Orioles,21201,1998,2018,,,,,,,,,
-Massachusetts,Boston Red Sox,02215,1998,2018,,,,,,,,,
-Michigan,Detroit Tigers,48216,1998,1999,,,,,,,,,
-Michigan,Detroit Tigers,48201,2000,2018,,,,,,,,,
-Minnesota,Minnesota Twins,55415,1998,2009,,,,,,,,,
-Minnesota,Minnesota Twins,55403,2010,2018,,,,,,,,,
-Missouri,Kansas City Royals,64129,1998,2018,,,,,,,,,
-Missouri,St. Louis Cardinals,63102,1998,2005,,,,,,,,,
-Missouri,St. Louis Cardinals,63102,2006,2018,,,,,,,,,
-New York,New York Mets,11368,1998,2008,,,,,,,,,
-New York,New York Mets,11368,2009,2018,,,,,,,,,
-New York,New York Yankees,10452,1998,2008,,,,,,,,,
-New York,New York Yankees,10451,2009,2018,,,,,,,,,
-Ohio,Cleveland Indians,44115,1998,2018,,,,,,,,,
-Ohio,Cincinnati Reds,45202,1998,2002,,,,,,,,,
-Ohio,Cincinnati Reds,45202,2003,2018,,,,,,,,,
-Pennsylvania,Philadelphia Phillies,19148,1998,2003,,,,,,,,,
-Pennsylvania,Philadelphia Phillies,19148,2004,2018,,,,,,,,,
-Pennsylvania,Pittsburgh Pirates,15212,1998,2000,,,,,,,,,
-Pennsylvania,Pittsburgh Pirates,15212,2001,2018,,,,,,,,,
-Texas,Houston Astros,77054,1998,1999,,,,,,,,,
-Texas,Houston Astros,77002,2000,2018,,,,,,,,,
-Texas,Texas Rangers,76011,1998,2018,,,,,,,,,
-Washington,Seattle Mariners,98104,1998,1999,,,,,,,,,
-Washington,Seattle Mariners,98134,2000,2018,,,,,,,,,
-Wisconsin,Milwaukee Brewers,53214,1998,2000,,,,,,,,,
-Wisconsin,Milwaukee Brewers,53214,2001,2018,,,,,,,,,
-"Montreal, Quebec, Canada",Expos,QCH1V0B2,1998,2004,,,,,,,,,
-Washington DC,Washington Nationals,20003,2005,2007,,,,,,,,,
-Washington DC,Washington Nationals,20003,2008,2018,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
+﻿State Name,MLB Team(s),stadium_zipcode,start_point,end_point
+Arizona,Arizona Diamondbacks,85034,1998,2018
+California,Los Angeles Angels,92806,1998,2018
+California,Los Angeles Dodgers,90012,1998,2018
+California,Oakland A's,94621,1998,2018
+California,San Diego Padres,92108,1998,2004
+California,San Diego Padres,92101,2005,2018
+California,San Francisco Giants,94124,1998,1999
+California,San Francisco Giants,94107,2000,2018
+Colorado,Colorado Rockies,80204,1998,1994
+Colorado,Colorado Rockies,80205,1998,2018
+Florida,Miami Marlins,33056,1998,2011
+Florida,Miami Marlins,33125,2012,2018
+Florida,Tampa Bay Rays,33705,1998,2018
+Georgia,Atlanta Braves,30312,1998,1996
+Georgia,Atlanta Braves,30315,1998,2016
+Georgia,Atlanta Braves,30339,2017,2018
+Illinois,Chicago Cubs,60613,1998,2018
+Illinois,Chicago White Sox,60616,1998,1990
+Illinois,Chicago White Sox,60616,1991,2018
+Maryland,Baltimore Orioles,21201,1998,2018
+Massachusetts,Boston Red Sox,2215,1998,2018
+Michigan,Detroit Tigers,48216,1998,1999
+Michigan,Detroit Tigers,48201,2000,2018
+Minnesota,Minnesota Twins,55415,1998,2009
+Minnesota,Minnesota Twins,55403,2010,2018
+Missouri,Kansas City Royals,64129,1998,2018
+Missouri,St. Louis Cardinals,63102,1998,2005
+Missouri,St. Louis Cardinals,63102,2006,2018
+New York,New York Mets,11368,1998,2008
+New York,New York Mets,11368,2009,2018
+New York,New York Yankees,10452,1998,2008
+New York,New York Yankees,10451,2009,2018
+Ohio,Cleveland Indians,44115,1998,2018
+Ohio,Cincinnati Reds,45202,1998,2002
+Ohio,Cincinnati Reds,45202,2003,2018
+Pennsylvania,Philadelphia Phillies,19148,1998,2003
+Pennsylvania,Philadelphia Phillies,19148,2004,2018
+Pennsylvania,Pittsburgh Pirates,15212,1998,2000
+Pennsylvania,Pittsburgh Pirates,15212,2001,2018
+Texas,Houston Astros,77054,1998,1999
+Texas,Houston Astros,77002,2000,2018
+Texas,Texas Rangers,76011,1998,2018
+Washington,Seattle Mariners,98104,1998,1999
+Washington,Seattle Mariners,98134,2000,2018
+Wisconsin,Milwaukee Brewers,53214,1998,2000
+Wisconsin,Milwaukee Brewers,53214,2001,2018
+"Montreal, Quebec, Canada",Expos,QCH1V0B2,1998,2004
+Washington DC,Washington Nationals,20003,2005,2007
+Washington DC,Washington Nationals,20003,2008,2018
