@@ -28,6 +28,8 @@ Independent variables, primary of which is time, studied across all datasets are
     - NBA Data: https://www.basketball-reference.com/
  - The above sources provide tables that can be manipulated and exported as CSV files. Once the data was gathered and cleaned, Tim organized them into analysis-ready DataFrames via the Python Pandas library.
  - The visualizations were done using matplotlib and seaborn
+ -Cleveland Browns 1998 issue: The city of Cleveland agreed to demolish Cleveland Stadium and build a new stadium on the same site, and the NFL agreed to reactivate the Browns by the 1999 season through either an expansion draft or a relocated franchise. The Browns were officially reactivated in 1998 through the expansion process and resumed play in 1999. Therefore, the Browns plotting in the Bottom 3 NFL Teams plot begins on 1999 instead of 1998. 
+ 
 ### Zillow
 
 ### US Census
