@@ -1,31 +1,31 @@
-﻿State Name,NBA Team(s),zip_code,srat_point,end_point
-Arizona,Phoenix Suns,85004,1998,2018
-California,Golden State Warriors,94621,1998,2018
-California,Los Angeles Clippers,92806,1998,2000
-California,Los Angeles Clippers,90015,2001,2018
-California,Los Angeles Lakers,90015,1998,2018
-California,Sacramento Kings,95814,1998,2018
-Colorado,Denver Nuggets,80204,1998,2018
-Florida,Miami Heat,33132,1998,2018
-Florida,Orlando Magic,32801,1998,2018
-Georgia,Atlanta Hawks,30303,1998,2018
-Illinois,Chicago Bulls,60612,1998,2018
-Indiana,Indiana Pacers,46204,1998,2018
-Louisiana,New Orleans Pelicans,70113,1998,2018
-Massachusetts,Boston Celtics,02114,1998,2018
-Michigan,Detroit Pistons,48201,1998,2018
-Minnesota,Minnesota Timberwolves,55403,1998,2018
-New York,Brooklyn Nets,11217,1998,2018
-New York,New York Knicks,10001,1998,2018
-North Carolina,Charlotte Hornets,28202,1998,2018
-Ohio,Cleveland Cavaliers,44115,1998,2018
-Oklahoma,Oklahoma City Thunder,73102,1998,2018
-Oregon,Portland Trail Blazers,97227,1998,2018
-Pennsylvania,Philadelphia 76ers,19148,1998,2018
-Tennessee,Memphis Grizzlies,38103,1998,2018
-Texas,Dallas Mavericks,75219,1998,2018
-Texas,Houston Rockets,77002,1998,2018
-Texas,San Antonio Spurs,78219,1998,2018
-Utah,Utah Jazz,84101,1998,2018
-Wisconsin,Milwaukee Bucks,53203,1998,2018
-Washington DC,Washington Wizards,20004,1998,2018
+﻿State Name,NBA Team(s),zip_code,srat_point,end_point,organization
+Arizona,Phoenix Suns,85004,1998,2018,nba
+California,Golden State Warriors,94621,1998,2018,nba
+California,Los Angeles Clippers,92806,1998,2000,nba
+California,Los Angeles Clippers,90015,2001,2018,nba
+California,Los Angeles Lakers,90015,1998,2018,nba
+California,Sacramento Kings,95814,1998,2018,nba
+Colorado,Denver Nuggets,80204,1998,2018,nba
+Florida,Miami Heat,33132,1998,2018,nba
+Florida,Orlando Magic,32801,1998,2018,nba
+Georgia,Atlanta Hawks,30303,1998,2018,nba
+Illinois,Chicago Bulls,60612,1998,2018,nba
+Indiana,Indiana Pacers,46204,1998,2018,nba
+Louisiana,New Orleans Pelicans,70113,1998,2018,nba
+Massachusetts,Boston Celtics,2114,1998,2018,nba
+Michigan,Detroit Pistons,48201,1998,2018,nba
+Minnesota,Minnesota Timberwolves,55403,1998,2018,nba
+New York,Brooklyn Nets,11217,1998,2018,nba
+New York,New York Knicks,10001,1998,2018,nba
+North Carolina,Charlotte Hornets,28202,1998,2018,nba
+Ohio,Cleveland Cavaliers,44115,1998,2018,nba
+Oklahoma,Oklahoma City Thunder,73102,1998,2018,nba
+Oregon,Portland Trail Blazers,97227,1998,2018,nba
+Pennsylvania,Philadelphia 76ers,19148,1998,2018,nba
+Tennessee,Memphis Grizzlies,38103,1998,2018,nba
+Texas,Dallas Mavericks,75219,1998,2018,nba
+Texas,Houston Rockets,77002,1998,2018,nba
+Texas,San Antonio Spurs,78219,1998,2018,nba
+Utah,Utah Jazz,84101,1998,2018,nba
+Wisconsin,Milwaukee Bucks,53203,1998,2018,nba
+Washington DC,Washington Wizards,20004,1998,2018,nba
